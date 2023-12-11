@@ -34,8 +34,6 @@
 ExportedObj/
 .consulo/
 *.csproj
-*.unityproj
-*.sln
 *.suo
 *.tmp
 *.user
@@ -47,6 +45,11 @@ ExportedObj/
 *.mdb
 *.opendb
 *.VC.db
+*.svclog
+*.scc
+*.tmp_proj
+*.meta
+*.obj
 
 # Build results
 
